@@ -54,3 +54,4 @@ Note: "rhythm" scores 8 if you count "y" as a vowel.
 
 When you are ready, submit the link to your repl in Canvas.
 
+
